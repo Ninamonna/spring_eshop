@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.main.allow-circular-references",
+      "type": "java.lang.String",
+      "description": "Description for spring.main.allow-circular-references."
+  }
+] }
